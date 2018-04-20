@@ -17,7 +17,7 @@ LDLIBS = -lcdk -lcurses
 
 EXECFILE = cdkexample
 
-OBJS = example1.o
+OBJS = prog6.o
 
 
 all: $(EXECFILE)
