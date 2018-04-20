@@ -44,7 +44,7 @@ int main()
   /*                                                                                                                                                                                
    * Create the matrix.  Need to manually cast (const char**) to (char **)                                                                                                          
   */
-  myMatrix = newCDKMatrix(cdkscreen, CENTER, CENTER, MATRIX_WIDTH, MATRIX_HEIGHT, MATRIX_WIDTH, MATRIX_HEIGHT,
+  myMatrix = newCDKMatrix(cdkscreen, CENTER, CENTER, MATRIX_HEIGHT, MATRIX_WIDTH, MATRIX_HEIGHT, MATRIX_WIDTH,
                           MATRIX_NAME_STRING, (char **) columnTitles, (char **) rowTitles, boxWidths,
 			  boxTypes, 1, 1, ' ', ROW, true, true, false);
 
