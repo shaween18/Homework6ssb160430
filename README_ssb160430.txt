@@ -2,6 +2,8 @@ Shireen Bahadur
 ssb160430@utdallas.edu
 CS3377.502
 
+URL: https://github.com/shaween18/Homework6ssb160430.git
+
 Files:
 Makefile: file that creates the executable files and then clean the unnessary files after execution
 prog5.cc: the file that has the c++ code that reads the input file and prints the file contents to the matrix on the console
