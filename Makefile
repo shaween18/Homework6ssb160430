@@ -1,8 +1,6 @@
-#                                                                                                            
-# UTD CS3377 CDK Example                                                                                     
-# Dr. Perkins                                                                                                
-# stephen.perkins@utdallas.edu                                                                               
-#                                                                                                            
+#Shireen Bahadur                                                                               
+#ssb160430@utdalas.edu                                                                         
+#CS 3377.502                  
 
 CXX = g++
 CXXFLAGS = -Wno-write-strings
