@@ -1,9 +1,10 @@
 #ifndef _MYPROJ_6_
 #define _MYPROJ_6_
 /*                                                                             
- * CS3377                                                                       
+ * CS3377.502 
  * myproject.h                                                                  
- *Shireen Bahadur                                                               
+ *Shireen Bahadur
+ *ssb160430@utdallas.edu
  */
 #include <iostream>
 #include <fstream>
